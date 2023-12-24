@@ -4,7 +4,7 @@
 <!--- - 📫 You can contact me via form on https://abbasturkoglu.com.tr--->
 
 [![trophy](http://github-readme-stats-notha99y.vercel.app/api?username=jughoor&theme=great-gatsby&show_icons=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jughoor&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 [![trophy](http://github-readme-stats-notha99y.vercel.app/api/top-langs/?username=abbasturkoglu&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook)]
