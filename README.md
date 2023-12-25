@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jughoor
-- 👀 I’m interested in computer vision.
+- 👋 Hi, I’m Tariq Ur Rehman
+- 👀 I’m interested in Mobile Application development.
 <!--- - 🌱 I’m currently learning Sequence Models.--->
 <!--- - 📫 You can contact me via form on https://abbasturkoglu.com.tr--->
 
