@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Tariq Ur Rehman
-- 👀 I’m interested in Mobile Application development.
-<!--- - 🌱 I’m currently learning Sequence Models.--->
-<!--- - 📫 You can contact me via form on https://abbasturkoglu.com.tr--->
+📱 Senior Mobile App Developer | 7+ years of crafting digital experiences | Proficient in Android, React Native, Xamarin, Swift | 
+Expertise in UI/UX design using Photoshop | Passionate about seamless app experiences | Turning concepts into polished, user-centric apps | 
+#MobileDev #Android #iOS #ReactNative
 
 [![trophy](http://github-readme-stats-notha99y.vercel.app/api?username=jughoor&theme=great-gatsby&show_icons=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jughoor&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
